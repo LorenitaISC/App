@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">ZipSalud</string>
+
+    <string name="nombre">Nombre</string>
+    <string name="pa">Primer apellido</string>
+    <string name="sa">Segundo apellido</string>
+    <string name="telefono">Telefono de emergencia</string>
+    <string name="alergias">Alergias</string>
+    <string name="tSangre">Tipo de sangre</string>
+    <string name="Fecha">Fecha de nacimiento</string>
+    <string name="direccion">Dirección</string>
+
+    <string name="medico">En los últimos 12 meses ¿Ha visto por cualquier razón a algún profesional de la salud? Médico
+	general, especialista, otro.</string>
+    <string name="consumo">Consume o ha consumido en forma repetida o prolongada alguna de las siguientes sustancias:</string>
+    <string name="cigarro">¿Cigarrillo en los últimos 12 meses?</string>
+    <string name="alcohol">¿Bebidas alcohólicas?</string>
+    <string name="estupefacientes">¿Estupefacientes?</string>
+    <string name="sufre_hipertension">¿Sufre o ha sufrido de hipertensión arterial?</string>
+    <string name="actividad">¿Realiza actividad física moderada durante la semana?</string>
+    <string name="sobrepeso">¿Ha tenido o tiene sobrepeso u obesidad?</string>
+    <string name="colesterol">¿Sufre o ha sufrido de colesterol alto en la sangre?</string>
+    <string name="sufre_diabetes">¿Sufre o ha sufrido de diabetes o azúcar alta en la sangre?</string>
+    <string name="pasatiempo">¿Tiene algún pasatiempo?</string>
+
+    <string name="mujeres">Mujeres</string>
+    <string name="citologia">¿Se ha practicado citología vaginal durante los últimos 12 meses?</string>
+    <string name="embarazo_actual">¿Se encuentra en estado de embarazo?</string>
+    <string name="cantidad_embarazos">¿Cuántos embarazos ha tenido?</string>
+
+    <string name="si">Si</string>
+    <string name="no">No</string>
+    <string name="respuesta">Responda lo siguiente</string>
+    <string name="seleccion">Selecciona Si o No según corresponda</string>
+    <string name="siguiente">Siguiente</string>
+
+    <string name="familia">Tiene familiares con historia de:</string>
+    <string name="diabetes">¿Diabetes?</string>
+    <string name="cancer">¿Cáncer?</string>
+    <string name="hipertension">¿Hipertensión?</string>
+    <string name="corazon">¿Problemas de corazón?</string>
+    <string name="renal">¿Enfermedad renal?</string>
+    <string name="artritis">¿Artritis?</string>
+    <string name="mental">¿Enfermedad mental?</string>
+    <string name="procedimiento">¿Tiene conocimiento de que deba practicarse algún procedimiento quirúrgico por
+    enfermedad del corazón, medula ósea, y/o cornea?</string>
+    <string name="cirugia">¿Se ha sometido a algún tipo de cirugía?</string>
+    <string name="reemplazos">¿Se ha sometido o sabe que deba someterse a reemplazos articulares? Especifique cual</string>
+
+    <string name="cardiovascular">Ha sufrido o sufre enfermedades del aparato cardiovascular como:</string>
+    <string name="aneurismas">¿Aneurismas?</string>
+    <string name="arritmias">¿Arritmias?</string>
+    <string name="angina">¿Angina de pecho?</string>
+    <string name="infarto">¿Infarto?</string>
+    <string name="soplo">¿Soplo cardiaco?</string>
+    <string name="valvulas">¿Enfermedad de válvulas cardiacas?</string>
+
+    <string name="sistema_nervioso">Ha sufrido o sufre enfermedades del sistema nervioso como:</string>
+    <string name="cerebro">¿Cerebro?</string>
+    <string name="medula">¿Medula espinal?</string>
+    <string name="columna">¿Columna vertebral?</string>
+    <string name="epilepsia">¿Epilepsia?</string>
+    <string name="convulsiones">e)¿Convulsiones?</string>
+    <string name="psiquiatrica">¿Ha sufrido o sufre enfermedad mental y/ psiquiátrica?</string>
+    <string name="intrafamiliar">¿Alguna vez ha sido víctima de violencia intrafamiliar?</string>
+    <string name="episodios_vintrafamiliar">¿Ha vivido usted episodios de violencia intrafamiliar?</string>
+    <string name="episodios_vsexual">¿Ha vivido usted episodios de violencia sexual?</string>
+    <string name="p_pulmonares">Ha sufrido o sufre problemas pulmonares como:</string>
+    <string name="asma">¿Asma?</string>
+    <string name="bronquitis">¿bronquitis?</string>
+    <string name="epoc">¿EPOC?</string>
+    <string name="renal_cronica">¿Ha sufrido o sufre enfermedad renal crónica?</string>
+    <string name="sida">¿Se le ha diagnosticado o ha recibido tratamiento para SIDA?</string>
+
+    <string name="sufre">Ha sufrido o sufre:</string>
+    <string name="linfoma"> ¿Linfoma?</string>
+    <string name="leucemia">¿Leucemia?</string>
+    <string name="mieloma">¿Mieloma?</string>
+    <string name="malformacion">¿Tiene alguna malformación, deformación, imperfección o anomalía congénita?</string>
+    <string name="medicamento">¿Consume algún medicamento en forma crónica o permanente?</string>
+    <string name="enfermedad">¿Tiene alguna enfermedad no relacionada anteriormente?</string>
+    <string name="title_activity_menu_lateral">MenuLateral</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
